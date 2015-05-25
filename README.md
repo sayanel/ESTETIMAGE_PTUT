@@ -5,8 +5,8 @@
 - sqlite3
 - libjpeg
 - OpenCV
-Télécharger Eigen et placer le dossier à la racine ~/
-Télécharger Sqliteman pour la gestion de base de données
+- Télécharger Eigen et placer le dossier à la racine ~/
+- Télécharger Sqliteman pour la gestion de base de données
 
 
 
